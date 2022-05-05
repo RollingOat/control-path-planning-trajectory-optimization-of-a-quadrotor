@@ -1,1 +1,1 @@
-# control-path-planning-trajectory-optimization-of-a-quadrotor
+# control, path planning, trajectory optimization of a quadrotor
