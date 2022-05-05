@@ -1,10 +1,10 @@
 # control, path planning, trajectory optimization of a quadrotor
 
-## Controller
+## Controller - PD controller
 
-## Path Planning
+## Path Planning - A*, Dijkstra's
 
-## Trajectory Optimization
+## Trajectory Optimization - minimal jerk
 
 ## Simulation Results
 
